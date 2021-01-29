@@ -2,7 +2,7 @@
 
 Initial configuration script for Ubuntu 20.04 Server.
 
-##Warning
+## Warning
 
 Please run this script as root in the server.
 
