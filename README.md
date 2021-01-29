@@ -18,6 +18,6 @@ Steps
 
 ## Notice
 
-Please ensure your safety of your butt at all time.
+Please ensure the safety of your butt at all time.
 
 This is a fair warning!
