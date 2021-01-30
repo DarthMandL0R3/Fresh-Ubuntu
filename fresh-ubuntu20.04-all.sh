@@ -26,7 +26,7 @@ echo -e "Installing essential packages.."
 sleep 1
 apt install -y build-essential git
 sleep 2
-apt install -y screen wget mlocate nmap mtr vim lynx ntpdate net-tools9 bind9-utils telnet sysstat firewalld
+apt install -y screen wget mlocate nmap mtr vim lynx chrony net-tools bind9-utils telnet sysstat firewalld
 sleep 2
 apt install -y python-dev python-pip python-apt python-dbus usermode qemu-guest-agent
 sleep 2
