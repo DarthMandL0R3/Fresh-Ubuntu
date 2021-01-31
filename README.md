@@ -1,6 +1,6 @@
-# Fresh-Ubuntu20.04-All 
+# Fresh-Ubuntu20.04-Lower 
 
-Initial configuration script for Ubuntu 20.04 Server.
+Initial configuration script for Ubuntu 20.04 Server for Lower Environment.
 
 ## Warning
 
@@ -11,9 +11,9 @@ Please run this script as root in the server.
 Steps
 
 ```bash
-# git clone http://infra-gitea.bestinet.com.my/Bestinet-OPS-Team/Fresh-Ubuntu20.04-All.git
-# chmod +x fresh-ubuntu20.04-all.sh
-# ./fresh-ubuntu20.04-all.sh
+# git clone http://infra-gitea.bestinet.com.my/Bestinet-OPS-Team/Fresh-Ubuntu20.04-Lower.git
+# chmod +x fresh-ubuntu20.04-lower.sh
+# ./fresh-ubuntu20.04-lower.sh
 ```
 
 ## Notice
