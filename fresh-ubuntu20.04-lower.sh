@@ -14,6 +14,7 @@ then
 	echo "$0: File '${file}' has not been created. Proceeding with post-install."
 else
 	echo "$0: File '${file}' has been created. DO NOT PROCEED WITH THIS SCRIPT."
+	exit 1
 fi
 
 ###Update and Upgrade All Packages###
