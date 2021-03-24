@@ -4,7 +4,7 @@ Initial configuration script for Ubuntu 20.04 Server for Lower Environment.
 
 ## Warning
 
-Please run this script as root in the server.
+Please run this script as super user (root) in the server.
 
 ## Usage
 
